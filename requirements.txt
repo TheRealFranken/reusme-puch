@@ -1,0 +1,5 @@
+fastmcp
+markdownify
+readabilipy
+openai
+uvicorn
